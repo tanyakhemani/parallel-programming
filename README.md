@@ -1,0 +1,2 @@
+# parallelprogramming
+openmp, opencl, simd
