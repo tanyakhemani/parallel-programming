@@ -1,0 +1,102 @@
+Arraysize:1000
+Peak Performance with SIMD=  1048.58 MegaMults/Sec
+Average Performance with SIMD =   816.47 MegaMults/Sec
+Peak Performance without SIMD=   167.77 MegaMults/Sec
+Average Performance without SIMD =   128.30 MegaMults/Sec
+SpeedUp:    8.50
+Arraysize:10000
+Peak Performance with SIMD=   911.81 MegaMults/Sec
+Average Performance with SIMD =   804.24 MegaMults/Sec
+Peak Performance without SIMD=   161.32 MegaMults/Sec
+Average Performance without SIMD =   148.41 MegaMults/Sec
+SpeedUp:    6.30
+Arraysize:20000
+Peak Performance with SIMD=   911.81 MegaMults/Sec
+Average Performance with SIMD =   784.12 MegaMults/Sec
+Peak Performance without SIMD=   157.38 MegaMults/Sec
+Average Performance without SIMD =   146.37 MegaMults/Sec
+SpeedUp:    6.23
+Arraysize:40000
+Peak Performance with SIMD=   851.64 MegaMults/Sec
+Average Performance with SIMD =   775.87 MegaMults/Sec
+Peak Performance without SIMD=   203.11 MegaMults/Sec
+Average Performance without SIMD =   179.21 MegaMults/Sec
+SpeedUp:    4.19
+Arraysize:60000
+Peak Performance with SIMD=  1772.24 MegaMults/Sec
+Average Performance with SIMD =  1583.39 MegaMults/Sec
+Peak Performance without SIMD=   315.76 MegaMults/Sec
+Average Performance without SIMD =   309.49 MegaMults/Sec
+SpeedUp:    5.68
+Arraysize:80000
+Peak Performance with SIMD=   880.69 MegaMults/Sec
+Average Performance with SIMD =   765.96 MegaMults/Sec
+Peak Performance without SIMD=   202.50 MegaMults/Sec
+Average Performance without SIMD =   170.52 MegaMults/Sec
+SpeedUp:    2.87
+Arraysize:100000
+Peak Performance with SIMD=   902.00 MegaMults/Sec
+Average Performance with SIMD =   823.25 MegaMults/Sec
+Peak Performance without SIMD=   214.98 MegaMults/Sec
+Average Performance without SIMD =   196.21 MegaMults/Sec
+SpeedUp:    4.19
+Arraysize:250000
+Peak Performance with SIMD=  1126.29 MegaMults/Sec
+Average Performance with SIMD =  1010.87 MegaMults/Sec
+Peak Performance without SIMD=   309.04 MegaMults/Sec
+Average Performance without SIMD =   276.64 MegaMults/Sec
+SpeedUp:    3.83
+Arraysize:400000
+Peak Performance with SIMD=  1099.42 MegaMults/Sec
+Average Performance with SIMD =   872.22 MegaMults/Sec
+Peak Performance without SIMD=   297.36 MegaMults/Sec
+Average Performance without SIMD =   245.12 MegaMults/Sec
+SpeedUp:    8.70
+Arraysize:500000
+Peak Performance with SIMD=   963.76 MegaMults/Sec
+Average Performance with SIMD =   759.20 MegaMults/Sec
+Peak Performance without SIMD=   297.81 MegaMults/Sec
+Average Performance without SIMD =   294.78 MegaMults/Sec
+SpeedUp:    3.26
+Arraysize:6500000
+Peak Performance with SIMD=   985.75 MegaMults/Sec
+Average Performance with SIMD =   854.63 MegaMults/Sec
+Peak Performance without SIMD=   292.73 MegaMults/Sec
+Average Performance without SIMD =   270.49 MegaMults/Sec
+SpeedUp:    3.34
+Arraysize:7000000
+Peak Performance with SIMD=   990.96 MegaMults/Sec
+Average Performance with SIMD =   884.58 MegaMults/Sec
+Peak Performance without SIMD=   291.82 MegaMults/Sec
+Average Performance without SIMD =   261.66 MegaMults/Sec
+SpeedUp:    3.33
+Arraysize:9000000
+Peak Performance with SIMD=   978.58 MegaMults/Sec
+Average Performance with SIMD =   880.34 MegaMults/Sec
+Peak Performance without SIMD=   292.25 MegaMults/Sec
+Average Performance without SIMD =   276.81 MegaMults/Sec
+SpeedUp:    4.10
+Arraysize:10000000
+Peak Performance with SIMD=   980.28 MegaMults/Sec
+Average Performance with SIMD =   875.51 MegaMults/Sec
+Peak Performance without SIMD=   292.07 MegaMults/Sec
+Average Performance without SIMD =   279.92 MegaMults/Sec
+SpeedUp:    3.22
+Arraysize:15000000
+Peak Performance with SIMD=   965.26 MegaMults/Sec
+Average Performance with SIMD =   864.12 MegaMults/Sec
+Peak Performance without SIMD=   292.15 MegaMults/Sec
+Average Performance without SIMD =   279.78 MegaMults/Sec
+SpeedUp:    3.17
+Arraysize:26000000
+Peak Performance with SIMD=   996.82 MegaMults/Sec
+Average Performance with SIMD =   872.01 MegaMults/Sec
+Peak Performance without SIMD=   286.56 MegaMults/Sec
+Average Performance without SIMD =   276.12 MegaMults/Sec
+SpeedUp:    3.21
+Arraysize:30000000
+Peak Performance with SIMD=   976.50 MegaMults/Sec
+Average Performance with SIMD =   834.33 MegaMults/Sec
+Peak Performance without SIMD=   292.99 MegaMults/Sec
+Average Performance without SIMD =   279.13 MegaMults/Sec
+SpeedUp:    3.83

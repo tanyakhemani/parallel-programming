@@ -1,0 +1,6 @@
+#!/bin/bash
+echo arraysize>>p52.txt
+awk -F: '/Arraysize/ {print $2}' text2.txt>>p52.txt
+echo speedup by ext>>p52.txt
+awk -F: '/SpeedUp/ {print $2}' text2.txt>>p52.txt
+

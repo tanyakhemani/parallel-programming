@@ -1,0 +1,8 @@
+git add -A //adds all files in the directory to git repo
+git commit -m 'add projectx' //commits an added file change with an 
+appended message 'projectx' in this case
+
+git push // pushes the commited files and directories to your git repository 
+
+git pull //  this is used to fetch the changes made in the git repo to the local 
+git directory (acts as an update)
